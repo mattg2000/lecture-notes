@@ -50,7 +50,7 @@
 
 ## Syllabus
 - https://bootcamp-coders.cnm.edu/syllabus/
-- Last cohort of PHP
+- First Cohort Of Fullstack Javascript
   - Why moving to fullstack Javascript?
     - One less language to learn
     - JavaScript is growing quickly
@@ -60,7 +60,7 @@
 - Slack
   - best way to reach instructors
   - each of you has your own channel
-  -  cohort-web27
+  -  cohort-web29
   -  web-k-maru-assignments
   -  web-captains-log
   -  current-community
@@ -72,7 +72,7 @@
   - Master list of assignments posted and pinned in that channel
 - Rubrics
   - https://bootcamp-coders.cnm.edu/projects/personal/rubric/
-  - https://bootcamp-coders.cnm.edu/projects/capstone/rubric/
+  - http://ddc-web-curriculum.cnm.edu/pwp-evaluation-rubric/
 -Instructor availability
   - Monday - Thursday 8:00 - 6:00 
   - Friday 8:00 - 12:00
