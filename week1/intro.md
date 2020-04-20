@@ -71,7 +71,7 @@
   - Assignments posted in #web-k-maru-assignment slack channel
   - Master list of assignments posted and pinned in that channel
 - Rubrics
-  - https://bootcamp-coders.cnm.edu/projects/personal/rubric/
+  - http://ddc-web-curriculum.cnm.edu/capstone-grading-rubric/
   - http://ddc-web-curriculum.cnm.edu/pwp-evaluation-rubric/
 -Instructor availability
   - Monday - Thursday 8:00 - 6:00 
