@@ -31,4 +31,10 @@ const combinedString = concatenatingStrings(string1, string2)
 
 console.log('answer for concatenation', combinedString)
 
+function factorSum (number1) {
+	while (number1.isInteger(number1/(number1-1))) {
+
+	}
+}
+
 
