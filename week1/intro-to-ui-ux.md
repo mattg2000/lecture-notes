@@ -67,7 +67,7 @@
     -   As a registered user, I want to reserve a seat
     -   As a support user, I want to comment on a help ticket
     -   As an anonymous user, I want to search nearby events
--   Much more on this topic as well as other UX and design principles:  [https://bootcamp-coders.cnm.edu/class-materials/user-experience/](https://slack-redir.net/link?url=https%3A%2F%2Fbootcamp-coders.cnm.edu%2Fclass-materials%2Fuser-experience%2F)
+-   Much more on this topic as well as other UX and design principles:  [https://bootcamp-coders.cnm.edu/class-materials/user-experience/](https://bootcamp-coders.cnm.edu/class-materials/user-experience/)
 -   Question: What are some user stories for Twitter?
 
   
