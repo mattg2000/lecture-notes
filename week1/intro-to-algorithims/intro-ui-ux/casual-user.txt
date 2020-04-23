@@ -1,0 +1,19 @@
+Name: Kat
+
+Gender: Female
+Age: 58
+Profession: Petsmart dog groomer
+Technology: Uses older windows 7
+*Dell desktop (on its last days)
+*Using internet explorer
+*Uses iPhone 6s that grandson gave her
+Attitudes & needs:
+*Loves funny cat/dog videos
+*Watches Americas funniest home videos
+*Likes taking photos of her cats
+*Attempted video upload, but has 0 likes
+*Recently joined Facebook and wants to share videos with new friends and family
+*Gets frustrated with technology easily
+*Normally asks grandchildren for help with tech questions
+*Her troubleshooting go to is unplugging devices or power on/off
+As a casual user, I want to be able to easily find funny videos and share them.
