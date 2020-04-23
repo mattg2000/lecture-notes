@@ -2,16 +2,22 @@
  * Find the sum of all unique positive factors of a number.
  *
  * @param number number The number which we are finding factors for.
- * @return The sum of all unique positive factors.
+ * @return number sum of all unique positive factors.
  */
 function sumUniquePositiveFactors(number) {
-	number = Math.abs(number);
-	let sum = 0;
-	for (let i = 1; i<=number; i++) {
-		console.log('sum', sum);
-		console.log('iterator', i)
+	number = Math.abs(number)
+
+	console.log('sum outside of loop')
+	let sum = 0
+	for (let i = 1; i <=number; i++) {
+
+	//	console.log('i <=number;', i <=number)
+	//	console.log('iterator', i)
+
+
 		if (number % i === 0) {
-			sum = sum + i;
+			sum = sum + i
+			console.log('sum inside loop', sum)
 		}
 	}
 	return sum
