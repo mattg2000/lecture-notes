@@ -94,5 +94,5 @@ postcondition: han5olo is never heard from again  ![:scream_cat:](https://a.slac
 
 ## Data Design Epic
 
-[https://bootcamp-coders.cnm.edu/class-materials/data-design/](https://slack-redir.net/link?url=https%3A%2F%2Fbootcamp-coders.cnm.edu%2Fclass-materials%2Fdata-design%2F)  
+[Data Design Project Overview](http://ddc-web-curriculum.cnm.edu/data-design-project-overview/)  
 Class Activity: YouTube example
