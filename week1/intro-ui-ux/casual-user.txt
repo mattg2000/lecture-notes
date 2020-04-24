@@ -17,3 +17,27 @@ Attitudes & needs:
 *Normally asks grandchildren for help with tech questions
 *Her troubleshooting go to is unplugging devices or power on/off
 As a casual user, I want to be able to easily find funny videos and share them.
+
+
+USECASE/INTERACTION FLOW
+
+Kat shares her first Cat Video to Facebook
+Kat has just created her Facebook page, and wants to share a funny video to
+let everyone know she has arrived! Her grandson had shown her earlier a YouTube tutorial
+on how to login and share videos.
+Kat is a new user to media sites
+precondition: Kat logs in to webApp through her facebook account
+postcondition: Kat succeeds in sharing funny cat videos with the world!
+
+  1. Kat enters into home searchbar:"funny cat"
+  2. webApp presents list of most popular videos with keywords "funny cat"
+  3. Kat watches a couple of videos, chooses "Keyboard Cat"
+  4. Kat clicks "share" button on top right corner of screen
+  5. Kat clicks option for "Facebook"
+  6. webApp redirects to Kat's Facebook page
+  7. Kat selects "everyone" under the "Share to" option
+  8. Kat clicks "yes" on confirmation pop-up
+  9. webApp posts video to Kat's Facebook page
+  10. Kat literally jumps for joy at her newfound tech success!
+
+  Frequency of use: Multiple times daily

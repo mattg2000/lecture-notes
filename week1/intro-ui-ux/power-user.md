@@ -1,3 +1,5 @@
+## Persona
+
 As a power user, I want to be able to upload videos I created and edited to Youtube. \
 
 Age: 32 \
@@ -25,3 +27,23 @@ Attitudes & Needs
 Anything Else?
 -	Desire to make more money as a professional Youtuber is a large driving force for Milton
 -	Desire to get famous and adored
+
+## Usecase and Interaction Flow
+
+Title: Uploading a video \
+Description: A power user wants to upload a video to his account and share a notification with his followers it has been posted. \
+Name and Role of Persona: Milton Garcia-Madrid, power user \
+Preconditions: User is logged into his own account on YouTube. \
+Postconditions: Video is posted to power user’s account, and followers are notified. \
+Interaction Flow:
+-         Milton presses an upload button from his account.
+-         The server redirects to the upload form, and asks user to choose the file to upload.
+-         Milton chooses the file from his computer he wants to upload and presses “upload.”
+-         The server uploads the file to Milton’s account he’s logged into, and prompts Milton to fill out basic information.
+-         Milton inputs title, description, and other information about his video and presses “done.”
+-         The server creates a URL and posts information for power user.
+-         Milton selects “notify followers” button.
+-         The server asks Milton to confirm action.
+-         Milton confirms action.
+-         The server sends a notification to all users following Milton.
+Frequency of Use: Weekly Regular Uploads
