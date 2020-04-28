@@ -1,4 +1,5 @@
 # MySQL Commands, Variables, and DDL
+## [Lecture Recording](https://us02web.zoom.us/rec/play/tZN4c72hr203GteStASDV_56W47pff2shnBK_aYPmU21VnYCZFT0M7VAZ27KJrSK2EgoPxgHRSQKYrI)
 
 ## MySQL
 - **database** - where we store data for our applications

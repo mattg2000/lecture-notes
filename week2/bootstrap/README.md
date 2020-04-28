@@ -1,1 +1,1 @@
-Lecture recording goes here 
+# [Lecture Notes](https://us02web.zoom.us/rec/play/tJApd-H7-jI3GIKWtwSDB_V6W43rffqsgHBKrKZbmhvhViQDM1CjZ7YaautcbGtYUuNzjv_kibBp1Lop)
