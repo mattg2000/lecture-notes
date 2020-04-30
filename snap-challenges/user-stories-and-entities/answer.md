@@ -11,8 +11,9 @@
 
 #### Profile
 * profileId
+* profileActivation
 * profileEmail
-* profilePassword
+* profileHash
 * profileUsername
 
 #### Address
