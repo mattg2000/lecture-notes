@@ -3,8 +3,6 @@
 ## Commands prior to starting
 
 - Make sure students run the following command: `git config --global --unset pull.rebase`
-- Info on how to get Windows users to have Git Bash as their terminal:
-  - https://stackoverflow.com/questions/27678608/git-command-is-not-recognized-on-terminal-tool-window-in-intellij-idea
 
 ## Why should I use the command line when I could use a GUI instead?
 - It's generally better supported than GUI-based tools.
