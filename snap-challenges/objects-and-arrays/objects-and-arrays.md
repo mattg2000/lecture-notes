@@ -1,7 +1,7 @@
 1. Sum the array below using a foreach loop 
 `[1,2,3,5,8,13,21,34,55]`
 
-2. iterate over the array of objects and use console.log to display the username property/ state variables of each object
+2. iterate over the array of objects and use console.log to display the username property/state-variable of each object.
 ```json
 [
 
