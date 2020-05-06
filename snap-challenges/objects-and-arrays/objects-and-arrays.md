@@ -4,6 +4,7 @@
 2. iterate over the array of objects and use console.log to display the username property/ state variables of each object
 ```json
 [
+
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -234,5 +235,6 @@
       "bs": "target end-to-end models"
     }
   }
+]
 
 ```
