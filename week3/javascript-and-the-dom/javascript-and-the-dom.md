@@ -12,7 +12,7 @@
   - Weirdly absurd endpoint – JavaScript everywhere! But nonetheless, it works.
   - We don't use server-side in this class, only browser-side
 - "Science fiction / comedy / absurdist / completely serious talk [on] the history of JavaScript, and programming in general, from 1995 until 2035"
-  - https://www.destroyallsoftware.com/talks/the-birthand-death-of-javascript
+   [Birth and Death Of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 
 ## JavaScript Events
 - **event** - In JavaScript, something that happens that can be reacted to with code.
