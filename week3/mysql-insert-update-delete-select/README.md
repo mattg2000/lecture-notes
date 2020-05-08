@@ -1,0 +1,2 @@
+## [Lecture Recording part 1](https://us02web.zoom.us/rec/play/tZQlcuuup203E9OXtASDAfAvW9S5eqis0HAf_acJn0ixVHkCZlOgN-ESZuYvHhe5qnzN_PFN4xJYMRS8)
+## [Lecture Recording part 2](https://us02web.zoom.us/rec/play/7pR-fun5_W43SYCRsgSDA_9-W9TsJ_2s23VK_aAFnk_gVCYBM1WgNbAba-Yxh-0N7Ru_cNJSrvsXZSwW?autoplay=true) 

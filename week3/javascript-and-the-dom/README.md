@@ -1,0 +1,1 @@
+# [Lecture Recording](https://us02web.zoom.us/rec/share/ou1UHovdrVhIQ4no8GjtA_5_P6GiX6a803UZ-aBYmU1B4IWqM3N501pyZVzaJfZU?startTime=1588792040000)

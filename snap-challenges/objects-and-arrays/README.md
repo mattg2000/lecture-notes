@@ -1,0 +1,1 @@
+# [Lecture Link](https://us02web.zoom.us/rec/play/6JIqcO6s_TI3E9HE5ASDV_d-W9W_Kqis2igarvoEnUy9BSMEOwKvNORDYLdvrpOHcNrH4Q5xDCR6zhUl)

@@ -1,0 +1,1 @@
+# [lecture Recording](https://us02web.zoom.us/rec/play/u5cpdeCp_G03GIeVswSDCvV_W42_K6-shHIY__QOyEmwVyZVNFTzYeQQNLF0YGjj9wmUzGldQjcXMq14)
