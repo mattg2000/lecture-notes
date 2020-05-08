@@ -1,0 +1,1 @@
+create a simple .html file with a single button. Using``document.getElementById` change the background color of the button on click. 
